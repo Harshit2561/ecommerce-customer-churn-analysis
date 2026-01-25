@@ -1,0 +1,14 @@
+# Data files
+data/raw/
+data/cleaned/
+*.csv
+
+# Python
+__pycache__/
+.ipynb_checkpoints/
+venv/
+.env
+
+# OS
+.DS_Store
+Thumbs.db
