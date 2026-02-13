@@ -81,6 +81,7 @@ ecommerce-customer-churn-analysis/
 │   ├── 02_sales_metrics.ipynb
 │   ├── 03_time_aware_churn_features.ipynb
 │   ├── 04_churn_modeling.ipynb
+│   ├── 05_Insights_and_Model_Interpretation.ipynb
 │
 ├── data/
 │   ├── raw/
